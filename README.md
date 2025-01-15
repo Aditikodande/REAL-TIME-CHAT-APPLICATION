@@ -1,9 +1,12 @@
+COMPANY:CODETECH IT SOLUTIONS
+NAME:ADITI KODANDE
+INTERN ID::CT08DS413
+DOMAIN:FRONTEND WEB DEVELOPMENT 
+BATCH DURATION:DECEMBER 25th, 2024 to JANUARY 25th, 2025. 
+MENTOR NAME:NEELA SANTOSH
+
+
 # Simple chat (realtime) with reactjs and websocket
-
-![test](https://img.shields.io/npm/dt/vue-scroll-datepicker-cashbac.svg?style=flat-square)
-![test](https://img.shields.io/npm/v/vue-scroll-datepicker-cashbac/latest.svg?style=flat-square)
-![test](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)
-
 In this article we will create a simple chat using websocket, nodeJs and ReactJs.
 From there you can play around and explore and add your own ideas and features.
 
@@ -185,8 +188,6 @@ export default App
 ```
 
 ## Development
-
-```bash
 # clone project
 $ git clone https://github.com/ichlas/simple-chat-websocket-reactjs.git
 
@@ -201,4 +202,8 @@ $ yarn start_server
 
 # generate static project
 $ yarn generate
-```
+
+## OUTPUT:
+![test](https://img.shields.io/npm/dt/vue-scroll-datepicker-cashbac.svg?style=flat-square)
+![test](https://img.shields.io/npm/v/vue-scroll-datepicker-cashbac/latest.svg?style=flat-square)
+![test](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)
