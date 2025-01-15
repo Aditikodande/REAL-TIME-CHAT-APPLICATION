@@ -10,12 +10,6 @@ MENTOR NAME:NEELA SANTOSH
 In this article we will create a simple chat using websocket, nodeJs and ReactJs.
 From there you can play around and explore and add your own ideas and features.
 
-## Demo
-
-See demo [here](https://www.npmjs.com/package/simple-chat-websocket-reactjs)
-
-![simple-chat-websocket-reactjs](https://res.cloudinary.com/daihatsu/image/upload/v1617036520/support/ogrslxcf60whgxbhvcxr.gif)
-
 
 ### Backend (Nodejs):
 Create a simple WebSocket server that broadcasts all incoming messages to everyone that’s connected. Then we will also need the actual
@@ -204,6 +198,8 @@ $ yarn start_server
 $ yarn generate
 
 ## OUTPUT:
+See demo [here](https://www.npmjs.com/package/simple-chat-websocket-reactjs)
+![simple-chat-websocket-reactjs](https://res.cloudinary.com/daihatsu/image/upload/v1617036520/support/ogrslxcf60whgxbhvcxr.gif)
 ![test](https://img.shields.io/npm/dt/vue-scroll-datepicker-cashbac.svg?style=flat-square)
 ![test](https://img.shields.io/npm/v/vue-scroll-datepicker-cashbac/latest.svg?style=flat-square)
 ![test](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)
